@@ -65,19 +65,19 @@
 
 Решение конфликта слияния:
 
-![](c:/Users/vikto/guap/LR6/images/git_gui.png)  
+![](./images/git_gui.png)  
 
  
-![](c:/Users/vikto/guap/LR6/images/merge.png)
+![](./images/merge.png)
 
 Откат коммита:
 
-![](c:/Users/vikto/guap/LR6/images/reset_commit.png)  
+![](./images/reset_commit.png)  
 
 
 История операций:
 
-![](c:/Users/vikto/guap/LR6/images/logs.png)  
+![](./images/logs.png)  
 
 
 ### Вывод
