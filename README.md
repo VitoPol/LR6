@@ -75,6 +75,11 @@
 ![](c:/Users/vikto/guap/LR6/images/reset_commit.png)  
 
 
+История операций:
+
+![](c:/Users/vikto/guap/LR6/images/logs.png)  
+
+
 ### Вывод
 
 В результате проделанной работы я освоил и отточил базовые навыки работы с системой контроля версий (git).
